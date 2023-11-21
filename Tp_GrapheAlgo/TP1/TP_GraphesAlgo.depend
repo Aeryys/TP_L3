@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699452516 source:c:\users\vilai\desktop\tp_graphesalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1700058357 source:c:\users\vilai\onedrive\bureau\tp1_graphesalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1700607621 source:c:\users\arkaan\onedrive\bureau\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
