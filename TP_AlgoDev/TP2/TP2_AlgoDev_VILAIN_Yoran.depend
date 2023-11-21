@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700046091 source:c:\users\vilai\onedrive\bureau\tp2_algodev_vilain_yoran\tp2_algodev_vilain_yoran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
