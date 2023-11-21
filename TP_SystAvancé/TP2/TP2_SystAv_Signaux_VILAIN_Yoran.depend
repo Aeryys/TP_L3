@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700478831 source:c:\users\vilai\onedrive\bureau\tp2_systav_signaux_vilain_yoran\tp2_systav_signaux_vilain_yoran\main.c
+	<stdio.h>
+	<unistd.h>
+	<signal.h>
+	<stdlib.h>
+	<string.h>
+
