@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699889447 source:c:\users\arkaan\onedrive\bureau\tp1_algodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1700037612 source:c:\users\vilai\onedrive\bureau\tp1_algodev_vilain_yoran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
